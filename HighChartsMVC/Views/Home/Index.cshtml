@@ -1,17 +1,7 @@
-﻿@{
-    ViewBag.Title = "Home Page";
-}
-<style>
-    h2 {
-        margin-bottom: 20px;
-    }
-</style>
-<div class="row">
-  
-    <h2>Pie Charts</h2>
-    <div class="col-md-12" id="pieCharts"></div>
- 
-</div>
-@section scripts{
+﻿<canvas id="myChart" width="400" height="400"></canvas>
+
+@section Scripts
+    {
+    
     <script src="~/Scripts/Charts.js"></script>
 }

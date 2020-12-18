@@ -10,5 +10,7 @@ namespace HighChartsMVC.Data_Acces_Layer
     public class AppDbContext : DbContext
     {
         public DbSet<Analysis> Analyses{ get; set; }
-}
+
+        public DbSet<PieChartData> pieChartData { get; set; }
+    }
 }

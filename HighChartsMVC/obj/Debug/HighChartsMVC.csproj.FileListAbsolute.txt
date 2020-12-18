@@ -77,7 +77,6 @@ C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\obj\Debug\HighChartsM
 C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\obj\Debug\HighChartsMVC.csproj.CopyComplete
 C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\obj\Debug\HighChartsMVC.dll
 C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\obj\Debug\HighChartsMVC.pdb
-C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\bin\DotNet.Highcharts.dll
 C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\bin\EntityFramework.dll
 C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\bin\EntityFramework.SqlServer.dll
 C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\bin\EntityFramework.xml
@@ -85,3 +84,6 @@ C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\bin\EntityFramework.S
 C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\obj\Debug\HighChartsMVC.csproj.GenerateResource.cache
 C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\obj\Debug\HighChartsMVC.Migrations.InitalMigration.resources
 C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\obj\Debug\HighChartsMVC.Migrations.addedAnalysisModel.resources
+C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\bin\Json.Net.dll
+C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\obj\Debug\HighChartsMVC.Migrations.PieChartModel.resources
+C:\Users\Saad-DDS\source\repos\HighChartsMVC\HighChartsMVC\obj\Debug\HighChartsMVC.Migrations.changedpropertyNamePiechartModel.resources
