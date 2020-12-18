@@ -22,3 +22,8 @@ select,
 textarea {
     max-width: 280px;
 }
+
+
+#myChart {
+    height: 75vh;
+}

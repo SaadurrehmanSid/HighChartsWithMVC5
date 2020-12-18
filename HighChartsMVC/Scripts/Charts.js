@@ -30,7 +30,9 @@ $('document').ready(function(){
 
 
             var ctx = $('#myChart');
+            
             var myChart = new Chart(ctx, JSON.parse(pieCharData));
+            
             //var dataLabels = [];
             //var seriesData = [];
             //$(response).each(function () {

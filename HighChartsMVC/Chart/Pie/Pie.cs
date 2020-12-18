@@ -38,6 +38,7 @@ namespace HighChartsMVC.Chart.Pie
 
     public class Options
     {
+        public bool maintainAspectRatio { get; set; } = false;
         public Scales scales { get; set; }
     }
 

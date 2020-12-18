@@ -155,6 +155,7 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Analysis.cs" />
+    <Compile Include="Models\ChartData\Colors.cs" />
     <Compile Include="Models\PieChartData.cs" />
     <Compile Include="Models\PieChartDataVM.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
